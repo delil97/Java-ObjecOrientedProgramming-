@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=F\u00F6rfattare
+comment1.params=b\u00F6cker\ sidor\ namn\ efternamn
+comment1.target=F\u00F6rfattare(java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getF\u00F6rfattareNamn()
+comment3.params=namn
+comment3.target=void\ setF\u00F6rfattareNamn(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getEfterNamn()
+comment5.params=efternamn
+comment5.target=void\ setEfterNamn(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
